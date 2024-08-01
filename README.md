@@ -27,7 +27,7 @@ The code is based on analyzing an excel database which contains certain behavior
 
 The idea is that each of these columns is analyzed as vectors using a likelihood matrix, taking as a premise that each taste of each possible new tenant counts as a vector of its own, which can be more or less similar to the vectors (tastes) of other tenants.
 
-<p style="color:red; display:inline;">Note:</p>   the data is in the attached excel
+<span  style="color:red; display:inline;">Note:</span >   the data is in the attached excel
 
 # Spanish version
 
@@ -60,4 +60,4 @@ El código se fundamenta en analizar una base de datos en excel la cual contiene
 
 La idea es que cada una de esas columnas sean analizadas como vectores mediante una matriz de verosimilitud, esto tomando como premisa de que cada gusto de cada posible nuevo inquilino cuenta como un vector propio, el cual puede ser mas o menos similar a los vectores (gustos) de otros inquilino.
 
-<p style="color:red;"> Nota: </p>  los datos se encuentran en el excel adjunto
+<span  style="color:red;"> Nota: </span >  los datos se encuentran en el excel adjunto
