@@ -1,7 +1,7 @@
 
 
 
-#Project For Startup
+# Project For Startup
 ## Description
 It is a project based on the use of machine learning through the sklearn library, in order to be able to relate a certain number of tenants within the same studio apartment, this is done in order to improve coexistence between the occupants.
 
@@ -27,7 +27,7 @@ The code is based on analyzing an excel database which contains certain behavior
 
 The idea is that each of these columns is analyzed as vectors using a likelihood matrix, taking as a premise that each taste of each possible new tenant counts as a vector of its own, which can be more or less similar to the vectors (tastes) of other tenants.
 
-#Spanish version
+# Spanish version
 
 # Proyecto Para Starup
 
