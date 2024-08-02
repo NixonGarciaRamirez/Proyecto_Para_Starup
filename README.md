@@ -33,7 +33,7 @@ The idea is that each of these columns is analyzed as vectors using a likelihood
 
 To start the project is very simple, from the console locate the app.py file and run it using the following command
 
-" streamlit run app.py "
+` streamlit run app.py `
 
 # Version en español
 
@@ -73,4 +73,4 @@ La idea es que cada una de esas columnas sean analizadas como vectores mediante 
 
 Para iniciar el proyecto es muy sencillo, desde la consola ubica el archivo app.py y ejecutalo usando el siguiente comando
 
-" streamlit run app.py "
+` streamlit run app.py `
