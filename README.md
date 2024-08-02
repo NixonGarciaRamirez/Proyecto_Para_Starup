@@ -9,7 +9,7 @@ The code is based on analyzing an excel database which contains certain behavior
 
     • schedule: Indicates the time of day in which the person performs the mentioned activities. It can be categorized into different time slots such as morning, afternoon, night, etc.
     • biorhythm: Describes the physical, emotional or intellectual state of a person at a given time. It can be based on biorhythm cycles that measure variations in these aspects over time.
-    • **educational_level**: Level of education achieved by the person. It can include categories such as primary, secondary, university, postgraduate, etc.
+    • educational_level: Level of education achieved by the person. It can include categories such as primary, secondary, university, postgraduate, etc.
     • reading: Indicates whether the person has the habit of reading and how often they do so. It could be categorized into options such as never, occasionally, frequently, daily, etc.
     • animation: The person's preference for watching animated films or series. It can indicate whether they like it and how often they consume this type of content.
     • cinema: The person's preference for going to the cinema or watching films in general. It can reflect the frequency with which they do this activity.
@@ -27,7 +27,13 @@ The code is based on analyzing an excel database which contains certain behavior
 
 The idea is that each of these columns is analyzed as vectors using a likelihood matrix, taking as a premise that each taste of each possible new tenant counts as a vector of its own, which can be more or less similar to the vectors (tastes) of other tenants.
 
-<span  style="color:red; display:inline;"> Note: </span >   the data is in the attached excel
+### Note: the data is in the attached excel
+
+## How to use it ??
+
+To start the project is very simple, from the console locate the app.py file and run it using the following command
+
+" streamlit run app.py "
 
 # Version en español
 
@@ -61,3 +67,10 @@ El código se fundamenta en analizar una base de datos en excel la cual contiene
 La idea es que cada una de esas columnas sean analizadas como vectores mediante una matriz de verosimilitud, esto tomando como premisa de que cada gusto de cada posible nuevo inquilino cuenta como un vector propio, el cual puede ser mas o menos similar a los vectores (gustos) de otros inquilino.
 
 <span  style="color:red;"> Nota: </span >  los datos se encuentran en el excel adjunto
+
+
+## Como usarlo ??
+
+Para iniciar el proyecto es muy sencillo, desde la consola ubica el archivo app.py y ejecutalo usando el siguiente comando
+
+" streamlit run app.py "
