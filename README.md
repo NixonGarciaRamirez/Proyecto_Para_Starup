@@ -1,7 +1,9 @@
 
 
 
-# Project For Startup
+# Project For Startup / Proyecto Para Starup
+
+
 ## Description
 It is a project based on the use of machine learning through the sklearn library, in order to be able to relate a certain number of tenants within the same studio apartment, this is done in order to improve coexistence between the occupants.
 
@@ -36,8 +38,6 @@ To start the project is very simple, from the console locate the app.py file and
 ` streamlit run app.py `
 
 # Version en español
-
-# Proyecto Para Starup
 
 ## Descripción
 
