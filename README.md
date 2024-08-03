@@ -39,6 +39,9 @@ To start the project is very simple, from the console locate the app.py file and
 
 By running this code, it allows you to enter the localhost to view the app.
 
+![Buscando un inquilino](https://github.com/NixonGarciaRamirez/Proyecto_Para_Starup/blob/main/IMAGENES/parte%202.png)
+
+![Buscando mas de un inquilino](https://github.com/NixonGarciaRamirez/Proyecto_Para_Starup/blob/main/IMAGENES/parte%203.png)
 
 # Version en español
 
@@ -80,4 +83,6 @@ Para iniciar el proyecto es muy sencillo, desde la consola ubica el archivo app.
 
 Al ejecutar este codigo, te permite ingresar al localhost para vizulizar la app.
 
+![Buscando un inquilino](https://github.com/NixonGarciaRamirez/Proyecto_Para_Starup/blob/main/IMAGENES/parte%202.png)
 
+![Buscando mas de un inquilino](https://github.com/NixonGarciaRamirez/Proyecto_Para_Starup/blob/main/IMAGENES/parte%203.png)
