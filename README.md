@@ -37,6 +37,9 @@ To start the project is very simple, from the console locate the app.py file and
 
 ` streamlit run app.py `
 
+By running this code, it allows you to enter the localhost to view the app.
+
+
 # Version en español
 
 ## Descripción
@@ -74,3 +77,7 @@ La idea es que cada una de esas columnas sean analizadas como vectores mediante 
 Para iniciar el proyecto es muy sencillo, desde la consola ubica el archivo app.py y ejecutalo usando el siguiente comando
 
 ` streamlit run app.py `
+
+Al ejecutar este codigo, te permite ingresar al localhost para vizulizar la app.
+
+
